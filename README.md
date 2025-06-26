@@ -1,4 +1,4 @@
-# Persistence-Hunter
+# Persistence Hunter
 **PowerShell CLI tool for hunting Windows malware persistence mechanisms and suspicious autoruns.**
 
 ---
